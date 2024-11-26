@@ -1,6 +1,9 @@
 # Depi-Mostafa-aly
 # Graduation Project
 
+# case study
+https://www.figma.com/proto/WfelSynCBSSaNPNGut4en5/DEPI?page-id=373%3A3989&node-id=420-2831&node-type=canvas&viewport=425%2C368%2C0.02&t=n5RrU5IfCBVlJ0KN-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=420%3A2831&show-proto-sidebar=1
+
 # Student 
 https://www.figma.com/proto/WfelSynCBSSaNPNGut4en5/DEPI?page-id=0%3A1&node-id=537-3381&node-type=canvas&viewport=847%2C414%2C0.02&t=oRmWB5qIPwTLHfEc-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=537%3A3381&show-proto-sidebar=1
 
